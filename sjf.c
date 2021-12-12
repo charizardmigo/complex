@@ -11,7 +11,6 @@ int main (void)
 
     printf("Enter number of processes: ");
     scanf("%d",&n);
-
     printf("\n");
 
     //Prompts user to input burst time for the processes
